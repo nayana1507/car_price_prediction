@@ -79,9 +79,9 @@ This is for training the model, performing EDA, and saving the model.
    * Preprocess and encode the features
    * Train machine learning models
    * Evaluate performance
-   * Save the best model using `pickle`
+   * Save the best model 
 
-6. **Ensure `car_price_model.pkl` is saved** in the root directory after running the notebook.
+The model is trained and evaluated within the notebook. No model persistence is used
 
 ## 📦 Requirements
 
