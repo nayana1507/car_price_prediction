@@ -55,8 +55,8 @@ This is for training the model, performing EDA, and saving the model.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/car-price-prediction.git
-   cd car-price-prediction
+   git clone https://github.com/nayana1507/car_price_prediction.git
+   cd car_price_prediction
    ```
 
 2. **Install the dependencies:**
